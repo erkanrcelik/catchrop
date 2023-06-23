@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892050869776",
+    "project_id": "catchrop-4caf2",
+    "storage_bucket": "catchrop-4caf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892050869776:android:9e9fc9d8dd631e45b14495",
+        "android_client_info": {
+          "package_name": "com.example.catchrop_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892050869776-qf9s8rs6gtst2iggg12qq3s1j0k5kc3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ9PgJ3dNAElfHD0w94Hd5q5PWGsKsKv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892050869776-qf9s8rs6gtst2iggg12qq3s1j0k5kc3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
